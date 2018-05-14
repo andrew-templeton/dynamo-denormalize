@@ -1,0 +1,25 @@
+{
+  "name": "dynamo-denormalize",
+  "version": "0.0.1",
+  "description": "Multi-table DynamoDB denormalizer for relations and foreign keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://andrew-templeton/dynamo-denormalize"
+  },
+  "keywords": [
+    "AWS",
+    "amazon",
+    "dynamodb",
+    "denormalize"
+  ],
+  "author": "Andrew Templeton <a.templeton@learnthe.cloud>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.0",
+    "aws-sdk": "^2.238.1"
+  }
+}
