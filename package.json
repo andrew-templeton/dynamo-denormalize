@@ -1,7 +1,7 @@
 {
   "name": "dynamo-denormalize",
-  "version": "0.0.1",
-  "description": "Multi-table DynamoDB denormalizer for relations and foreign keys",
+  "version": "0.1.0",
+  "description": "Multi-table AWS / Amazon DynamoDB denormalizer for relations and foreign keys",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
